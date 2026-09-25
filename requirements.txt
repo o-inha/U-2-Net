@@ -2,7 +2,7 @@ numpy==1.22.0
 scikit-image==0.14.0
 torch
 torchvision
-pillow==9.3.0
+pillow==12.3.0
 paddlepaddle
 paddlehub
 gradio
